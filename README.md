@@ -26,7 +26,7 @@ Actualmente estoy preparando la certificación **eJPTv2 (INE)**.
 
 ## 🏆 Estado
 
-![ejpt](https://img.shields.io/badge/eJPTv2-Preparing-blue?logo=hackthebox)  
+![ejpt](https://img.shields.io/badge/eJPTv2-Preparing-blue)  
 ![tryhackme](https://img.shields.io/badge/TryHackMe-Active-red?logo=tryhackme)  
 ![htb](https://img.shields.io/badge/HackTheBox-Active-green?logo=hackthebox)
 
