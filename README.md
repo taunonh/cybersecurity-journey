@@ -3,10 +3,10 @@
 Este repositorio documenta mi **camino en ciberseguridad**:  
 formación técnica, apuntes de formación, preparación para certificaciones, writeups de CTFs y proyectos personales.  
 Mi formación actual relacionada con la Ciberseguridad es:
-    1. **CCNA - Cisco Certified Network Associate** *(2013)*
-    2. **CFGS ASIR - Técnico Superior en Administración de Sistemas Informáticos y Redes.** *(en curso - Junio 2026)*
-    3. **Técnico Especialista en Ciberseguridad - Keepcoding** *(2024/2025)*
-    4. **Certificación eJPTv2 - INE** *(en curso - octubre 2025)*
+1. **CCNA - Cisco Certified Network Associate** *(2013)*
+2. **CFGS ASIR - Técnico Superior en Administración de Sistemas Informáticos y Redes.** *(en curso - Junio 2026)*
+3. **Técnico Especialista en Ciberseguridad - Keepcoding** *(2024/2025)*
+4. **Certificación eJPTv2 - INE** *(en curso - octubre 2025)*
 
 ---
 
