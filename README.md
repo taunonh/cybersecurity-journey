@@ -34,7 +34,7 @@ Actualmente estoy preparando la certificación **eJPTv2 (INE)**.
 
 ## 📄 CV
 
-📌 [Ver CV actualizado](./05_cv/CV_Tomas_Aunon.pdf)
+📌 [Ver CV actualizado](./05_cv/CV_Tomas_Aunon_2025_v3.1.pdf)
 
 ---
 
